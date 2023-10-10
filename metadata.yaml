@@ -1,5 +1,8 @@
 _repo: Seven-daughters_71729
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71729-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Douglas, Amanda M.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9482
     wikipedia: https://en.wikipedia.org/wiki/Amanda_Minnie_Douglas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71729#Seven-daughters
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71729'
